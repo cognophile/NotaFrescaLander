@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 title: NotaFresca
 description: Notes are simple; now writing them is too.
+show_downloads: true
 
 github:
   repository_url: https://github.com/cognophile/NotaFresca

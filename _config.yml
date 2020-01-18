@@ -6,3 +6,4 @@ show_downloads: true
 github:
   repository_url: https://github.com/cognophile/NotaFresca
   zip_url: https://github.com/cognophile/NotaFresca/releases/download/1.2.1/NotaFresca.zip
+  tar_url: https://github.com/cognophile/NotaFresca/archive/1.2.1.tar.gz
